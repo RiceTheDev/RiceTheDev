@@ -1,7 +1,7 @@
 - 👋 Opa, Meu nome é Rice
 - 👀 Sou GameDev
 - 🌱 Estou Aprendendo GameMaker Studio 2
-- 📫 Para Me Contatar: RiceNoob@toke.com
+- 📫 Para Me Contatar: RiceNoob@toke.com Ou [Clique Aqui:](mailto:ricenoob@toke.com)
 - Sites: [solo.to](https://solo.to/RiceTheDev) & [my page](https://ricethedev.github.io/site/)
 
 <!---
