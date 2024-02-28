@@ -1,10 +1,10 @@
 Hi 👋 My name is Rice
 =====================
 
-I have been trying coding for 3 years, but only now I managed to start learning.
+coding for 2 years, python and html
 
 * 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [https://ricethedev.github.io/Site/](http://ricethedev.github.io/Site/)
+* 🖥️  See my portfolio at [https://ricethedev.github.io/Site/](http://ricethe.pages.dev)
 * ✉️  You can contact me at [ricethedev@toke.com](mailto:ricethedev@toke.com)
 * 🧠  I'm learning Python and C++
 * 🤝  I'm open to collaborating on Game Projects
