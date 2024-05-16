@@ -8,7 +8,7 @@ coding for 2 years, python and html
 * ✉️  You can contact me at [ricethedev@toke.com](mailto:ricethedev@toke.com)
 * 🧠  I'm learning Python and C++
 * 🤝  I'm open to collaborating on Game Projects
-* 🗣   You can contact me on discord, @raic.e  
+* 🗣    You can contact me on discord, @raic.e  
 
 <a href="https://www.github.com/ricethedev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ricethedev?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a><a href="https://www.x.com/riccenoob" target="_blank" rel="noreferrer"><img
