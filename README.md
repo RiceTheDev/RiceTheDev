@@ -4,7 +4,7 @@ Hi 👋 My name is Rice
 coding for 2 years, python and html
 
 * 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [https://ricethedev.github.io/Site/](http://ricethe.pages.dev)
+* 🖥️  See my portfolio [Here](http://ricethe.pages.dev)
 * ✉️  You can contact me at [ricethedev@toke.com](mailto:ricethedev@toke.com)
 * 🧠  I'm learning Python and C++
 * 🤝  I'm open to collaborating on Game Projects
