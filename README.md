@@ -6,7 +6,7 @@ coding for 2 years, python and html
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio [here](http://ricethe.pages.dev)
 * ✉️  You can contact me at [ricethedev@toke.com](mailto:ricethedev@toke.com)
-* 🧠  I'm learning Python and C++
+* 🧠  I'm learning Python, C++ and JavaScript
 * 🤝  I'm open to collaborating on Game Projects
 * 🗣  You can contact me on discord, @raic.e  
 
