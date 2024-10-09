@@ -1,7 +1,7 @@
 Hi 👋 My name is Rice
 =====================
 
-coding for 2 years, python and html
+coding for 3 years, python and html
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio [here](http://ricethe.pages.dev)
