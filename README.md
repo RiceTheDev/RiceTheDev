@@ -35,13 +35,5 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="adobephotoshop logo"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31dntznyh3w3ia2jx3bgqvmjgjdi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dntznyh3w3ia2jx3bgqvmjgjdi&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
+<img src="github-user-contribution.svg" >
 ###
