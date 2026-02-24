@@ -9,11 +9,10 @@ raice — developer of low-level things
 ### DESCRIPTION
   makes some weird shit
 
-Common activities include:
+common activities include:
 - emulator development
 - embedded systems development
 - dead platform development
-- graphics apis that probably shouldn't exist
 
 ### OPTIONS
 **--wii**  
