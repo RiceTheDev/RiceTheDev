@@ -19,13 +19,13 @@ common activities include:
  "develop without libogc, because suffering builds character." - raice, 2026
 
 **--game-engine-development**  
- why not?
+ the ultimate hobbie
 
 **--hardware**  
  microcontrollers are fun.
 
 **--html**  
- "if it renders, it's fine"
+ i dislike html
 
 ### FILES
 `/projects/emulators/`  
