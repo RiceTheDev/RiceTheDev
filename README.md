@@ -16,7 +16,7 @@ common activities include:
 
 ### OPTIONS
 **--wii**  
- "develop without libogc, because suffering builds character." - raice, 2026
+ "developing without libogc is better, because suffering builds character." - raice, 2026
 
 **--game-engine-development**  
  the ultimate hobbie
@@ -25,7 +25,7 @@ common activities include:
  microcontrollers are fun.
 
 **--html**  
- i dislike html
+ fuck react, i'm on some html
 
 ### FILES
 `/projects/emulators/`  
