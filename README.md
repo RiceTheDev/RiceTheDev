@@ -45,6 +45,6 @@ coffee(1), sleep(8), archlinux(7)
 
 <br>
 
-raice@github ~> sudo rm -rf /
+raice@github ~> sudo rm -rf / --no-preserve-root
 
 raice@github ~>
