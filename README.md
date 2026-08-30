@@ -7,7 +7,7 @@ raice - developer of low-level things
 **raice** [--sleep] [--code] [--cry]
 
 ### DESCRIPTION
-  making weird shit
+  making useless shit
 
 common activities include:
 - emulator development
