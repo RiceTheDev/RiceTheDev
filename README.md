@@ -1,13 +1,13 @@
 # RAICE(1)
 
 ### NAME
-raice — developer of low-level things
+raice - developer of low-level things
 
 ### SYNOPSIS
 **raice** [--sleep] [--code] [--cry]
 
 ### DESCRIPTION
-  makes some weird shit
+  making weird shit
 
 common activities include:
 - emulator development
