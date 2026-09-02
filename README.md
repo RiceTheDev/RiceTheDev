@@ -19,7 +19,7 @@ common activities include:
  "developing without libogc is better, because suffering builds character." - raice, 2026
 
 **--game-engine-development**  
- the ultimate hobbie
+ the most normal hobbie
 
 **--hardware**  
  microcontrollers are fun.
