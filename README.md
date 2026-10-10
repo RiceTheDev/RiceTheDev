@@ -11,14 +11,14 @@
 
 ```txt
 user   : raice
-os     : linux
+os     : archlinux
 status : compiling
 ```
 
 i like figuring out how things work, breaking them,
 and (rarely) making them work again
 
-mostly messing with software, hardware, or whatever shit i got curious about this week
+mostly messing with software, hardware, or whatever shit i got curious about
 
 ## what am i doing
 
