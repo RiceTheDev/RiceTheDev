@@ -23,7 +23,7 @@ mostly messing with software, hardware, or whatever shit i got curious about thi
 ## what am i doing
 
 <div align="left">
-  <img src="https://lanyard.cnrad.dev/api/570693486500773888?bg=0a0a0a&hideTimestamp=true&t=0" alt="discord activity" />
+  <img src="https://lanyard.cnrad.dev/api/570693486500773888?bg=0a0a0a&hideTimestamp=true&t=1791657157" alt="discord activity" />
 </div>
 
 ## tools
