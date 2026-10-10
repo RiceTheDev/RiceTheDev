@@ -1,50 +1,48 @@
-# RAICE(1)
+# raice
 
-### NAME
-raice - developer of low-level things
+`linux - low-level stuff - reverse engineering`
 
-### SYNOPSIS
-**raice** [--sleep] [--code] [--cry]
+<div align="left">
+  <img width="328" src="https://count.getloli.com/@ricethedev?theme=original-old&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="profile views" />
+</div>
 
-### DESCRIPTION
-  making useless shit
 
-common activities include:
-- emulator development
-- embedded systems development
-- dead platform development
+## about
 
-### OPTIONS
-**--wii**  
- "developing without libogc is better, because suffering builds character." - raice, 2026
+```txt
+user   : raice
+os     : linux
+status : compiling
+```
 
-**--game-engine-development**  
- the most normal hobbie
+i like figuring out how things work, breaking them,
+and (rarely) making them work again
 
-**--hardware**  
- microcontrollers are fun.
+mostly messing with software, hardware, or whatever shit i got curious about this week
 
-**--html**  
- fuck react, i'm on some html
+## what am i doing
 
-### FILES
-`/projects/emulators/`  
-`/projects/embedded/`  
-`/secret/homework/`
+<div align="left">
+  <img src="https://lanyard.cnrad.dev/api/570693486500773888?bg=0a0a0a&hideTimestamp=true&t=0" alt="discord activity" />
+</div>
 
-### BUGS
-- overengineering
-- starting new projects before finishing old ones
-- access to internet
+## tools
 
-### AUTHOR
-raice
+<p align="left">
+  <img src="https://img.shields.io/badge/linux-111111?style=for-the-badge&logo=linux&logoColor=white" alt="linux" />
+  <img src="https://img.shields.io/badge/c-111111?style=for-the-badge&logo=c&logoColor=white" alt="c" />
+  <img src="https://img.shields.io/badge/python-111111?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/git-111111?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/ffmpeg-111111?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="ffmpeg" />
+</p>
 
-### SEE ALSO
-coffee(1), sleep(8), archlinux(7)
+## find me
 
-<br>
-
-raice@github ~> sudo rm -rf / --no-preserve-root
-
-raice@github ~>
+<p align="left">
+  <a href="https://github.com/ricethedev">
+    <img src="https://img.shields.io/badge/github-111111?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://discord.com/users/570693486500773888">
+    <img src="https://img.shields.io/badge/discord-111111?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
+  </a>
+</p>
